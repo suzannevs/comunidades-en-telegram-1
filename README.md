@@ -74,7 +74,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | Python Venezuela                           | @nhomar - @macagua                                                           | https://t.me/python_venezuela                          |
 | RadioGNU                                   | @BreadMaker @octaviotron                                                     | https://t.me/radiognu                                  |
 | React y React Native                       | @alacret - @edwinvrgs                                                        | https://t.me/reactVE                                   |
-| Realidad Aumentada Ve                      | @gothicssy                                                                   | https://t.me/RealidadVe                                |
+| Realidad Aumentada Ve                      | @suzanneelhada                                                                   | https://t.me/RealidadVe                                |
 | Robotica Venezuela                         | @jesusareyesv                                                                | https://t.me/Robotica_VE                               |
 | Ruby                                       | @andres_code - @highercomve - @hipsss                                        | https://t.me/ruby_ve                                   |
 | Security VE                                | @coffeenights                                                                | https://t.me/itsec_ve                                  |
