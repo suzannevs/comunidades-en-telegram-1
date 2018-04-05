@@ -15,7 +15,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | Bases de Datos                             | @jelitox - @foursixnine - @msalazarc                                         | https://t.me/bdvzla                                    |
 | Bash / Zsh / CLI                           | @CrafterSama - @KDels - @Tur3c0                                              | https://t.me/BashZshCLI                                |
 | Bitcoin                                    | @ajsb85 - @srosuna - @rdymac - @guerrerocarlos                               | https://t.me/btcven                                    |
-| Blender Venezuela                          | @suzannedm                                                                   | https://t.me/BlenderVe                                 |
+| Blender Venezuela                          | @suzanneelhada                                                                   | https://t.me/BlenderVe                                 |
 | C++                                        | @Kalpar501 - @chiguire                                                       | https://t.me/joinchat/BrCK8gmzgY_A2-Z2qg_MRg           |
 | Computación Física                         | @NatAli_En                                                                   | https://t.me/joinchat/AAAAAEJOcVHmuTCTG8uVqQ           |
 | Conocimiento Libre                         | @Seraph1                                                                     | https://t.me/joinchat/B9JUAATRuqeYAxaGYLq-ng           |
@@ -27,6 +27,11 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [https://t
 | Django                                     | @cherny                                                                      | https://t.me/DjangoVE                                  |
 | Docker Venezuela                           | @Seraph1                                                                     | https://t.me/dockervenezuela                           |
 | Electronica General                        | @oteroweb                                                                    | https://t.me/ElectroVe                                 |
+| Mecatronica                        | @suzanneelhada                                                                    | https://t.me/mecatronicave 
+| Realidad Aumentada                        | @suzanneelhada                                                                    | https://t.me/realidadve 
+| Nomadas Digitales                        | @suzanneelhada                                                                    | https://t.me/nomadasve 
+| Emprendedores venezuela                        | @suzanneelhada                                                                    | https://t.me/emprendedoresve 
+| airtm venezuela                        | @suzanneelhada                                                                    | https://t.me/airtmve 
 | Elixir                                     | @gusga - @highercomve                                                        | https://t.me/ElixirVe                                  |
 | Emprendedores Venezolanos                  | @oyepez - @oteroweb                                                          | https://t.me/emprendedores_venezolanos                 |
 | E-shops Dev Venezuela                      | @jkhiyami - @Alextic                                                         | https://t.me/EShopsDevVenezuela                        |
